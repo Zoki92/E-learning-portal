@@ -1,0 +1,10 @@
+"""
+python manage.py loaddata subjects.json
+By default, Django looks for files in the fixtures/ directory
+ of each application, but you can specify the complete path to
+  the fixture file for the loaddata command. You can also use the
+   FIXTURE_DIRS setting to tell Django additional directories to 
+   look for fixtures.
+Fixtures are not only useful for setting up initial data, but also
+ to provide sample data for your application or data required for your tests.
+"""
